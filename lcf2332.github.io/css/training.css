@@ -1,0 +1,40 @@
+
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      margin: 20px auto;
+    }
+
+    th, td {
+      padding: 10px;
+      border: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+      font-weight: bold;
+    }
+
+    .even-row {
+      background-color: #f9f9f9;
+    }
+
+    table caption {
+      caption-side: top;
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 10px;
+      box-shadow: 1px solid #350202;
+    }
+
+    tr:hover {
+      background-color: #e0e0e0;
+    }
+
+    .shadow {
+      font-size: 2.35em;
+      color: #245831;
+      font-weight: bold;
+      text-shadow: 5px 5px 8px #d67575;
+      text-align: center;
+    }
